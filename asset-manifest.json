@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anshul2807/covid-19_tracker_reactjs.git/static/css/main.02729728.chunk.css",
+    "main.js": "/anshul2807/covid-19_tracker_reactjs.git/static/js/main.b8a576b9.chunk.js",
+    "main.js.map": "/anshul2807/covid-19_tracker_reactjs.git/static/js/main.b8a576b9.chunk.js.map",
+    "runtime-main.js": "/anshul2807/covid-19_tracker_reactjs.git/static/js/runtime-main.c6d8e88a.js",
+    "runtime-main.js.map": "/anshul2807/covid-19_tracker_reactjs.git/static/js/runtime-main.c6d8e88a.js.map",
+    "static/css/2.bcddf60d.chunk.css": "/anshul2807/covid-19_tracker_reactjs.git/static/css/2.bcddf60d.chunk.css",
+    "static/js/2.ea6d95da.chunk.js": "/anshul2807/covid-19_tracker_reactjs.git/static/js/2.ea6d95da.chunk.js",
+    "static/js/2.ea6d95da.chunk.js.map": "/anshul2807/covid-19_tracker_reactjs.git/static/js/2.ea6d95da.chunk.js.map",
+    "index.html": "/anshul2807/covid-19_tracker_reactjs.git/index.html",
+    "precache-manifest.1d76aaece86daa3c25207699875ee0d4.js": "/anshul2807/covid-19_tracker_reactjs.git/precache-manifest.1d76aaece86daa3c25207699875ee0d4.js",
+    "service-worker.js": "/anshul2807/covid-19_tracker_reactjs.git/service-worker.js",
+    "static/css/2.bcddf60d.chunk.css.map": "/anshul2807/covid-19_tracker_reactjs.git/static/css/2.bcddf60d.chunk.css.map",
+    "static/css/main.02729728.chunk.css.map": "/anshul2807/covid-19_tracker_reactjs.git/static/css/main.02729728.chunk.css.map",
+    "static/js/2.ea6d95da.chunk.js.LICENSE.txt": "/anshul2807/covid-19_tracker_reactjs.git/static/js/2.ea6d95da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d8e88a.js",
+    "static/css/2.bcddf60d.chunk.css",
+    "static/js/2.ea6d95da.chunk.js",
+    "static/css/main.02729728.chunk.css",
+    "static/js/main.b8a576b9.chunk.js"
+  ]
+}
